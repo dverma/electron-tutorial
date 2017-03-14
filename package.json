@@ -1,0 +1,14 @@
+{
+  "name": "electron-tutorial",
+  "version": "0.0.1",
+  "description": "Basics of electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhawal Verma",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.6.2"
+  }
+}
